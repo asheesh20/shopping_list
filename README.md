@@ -1,6 +1,20 @@
-# shopping_list
+# Shopping list 
 
-A new Flutter project.
+Shopping List App created using flutter.
+
+## Screeshots
+
+![1708545612865](https://github.com/asheesh20/shopping_list/assets/98988175/d60c9c3b-84b2-4ff3-9c75-8e18f83c507e)
+
+
+
+
+
+
+
+
+
+
 
 ## Getting Started
 
