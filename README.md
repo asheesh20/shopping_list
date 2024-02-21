@@ -6,8 +6,11 @@ Shopping List App created using flutter.
 
 ![1708545612865](https://github.com/asheesh20/shopping_list/assets/98988175/d60c9c3b-84b2-4ff3-9c75-8e18f83c507e)
 
+![1708545612853](https://github.com/asheesh20/shopping_list/assets/98988175/e5b0bb51-2a22-4a26-9745-6232756e80c1)
 
+![1708545612841](https://github.com/asheesh20/shopping_list/assets/98988175/98489c5e-9fa9-414a-9f66-97932133b7d7)
 
+![1708545612829](https://github.com/asheesh20/shopping_list/assets/98988175/7dde9796-8e7b-4366-860b-2f9a7b6976d6)
 
 
 
